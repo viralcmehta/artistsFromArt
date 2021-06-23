@@ -1,0 +1,5 @@
+fastbook
+fastai
+ipywidgets
+voila
+PIL
